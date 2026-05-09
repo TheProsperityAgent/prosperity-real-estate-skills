@@ -1,0 +1,27 @@
+// Anonymized example output from the listing-description prompt.
+// Real address, agent identity, and contact info redacted.
+
+PROMPT INPUT:
+- City: Greenville, NC
+- Address: [redacted, 2400 sqft single-family]
+- 4 bed, 3 bath, 2,400 sqft, 0.6 acre, built 2018
+- Standouts: open floor plan, screened porch, two-car garage with workshop
+
+CLAUDE OUTPUT:
+
+Tucked on more than half an acre in one of Greenville's quieter pockets,
+this 4-bedroom, 3-bath home gives you 2,400 square feet to actually
+spread out in. The open floor plan keeps the kitchen, dining, and great
+room talking to each other — perfect for the way most families really
+live. A screened porch off the back means morning coffee with the
+windows open, no bugs, three seasons of the year.
+
+The two-car garage doubles as a real workshop. Built-ins, dedicated
+220V circuit, room for projects. Built in 2018, so the systems are still
+new and the floor plan is current.
+
+Greenville life is closer than people realize — ECU campus is a short
+drive, the riverfront and Town Common are quick weekend stops, and the
+back roads to the coast are wide-open Sunday drives.
+
+[145 words exactly]
