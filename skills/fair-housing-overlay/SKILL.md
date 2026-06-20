@@ -99,4 +99,4 @@ This episode walks through the four rule sets with real-world before/after examp
 
 ## Built by
 
-Al & Victoria Pinder · ICON Agents · eXp Realty · Greenville, NC
+Al & Victoria Pinder · The Prosperity Agent · ICON Agents, eXp Realty

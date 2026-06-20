@@ -59,7 +59,7 @@ Write the description.
 ## What good output looks like
 
 See [`examples/`](examples/) for two anonymized real-world outputs:
-- A $300-400K Greenville home (suburban, screened porch)
+- A $300-400K Springfield home (suburban, screened porch)
 - A $200K-under Pitt-County rural home (acreage, workshop)
 
 Both are 145 words exactly. Both pass MLS feed filters. Both have FH-compliant local-life closing lines.
@@ -85,4 +85,4 @@ Loads the `fair-housing-overlay` skill rules. If you don't have that skill loade
 
 ## Built by
 
-Al & Victoria Pinder · ICON Agents · eXp Realty · Greenville, NC
+Al & Victoria Pinder · The Prosperity Agent · ICON Agents, eXp Realty

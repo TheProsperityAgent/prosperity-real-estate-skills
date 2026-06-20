@@ -74,4 +74,4 @@ No "won't last."
 
 ## Built by
 
-Al & Victoria Pinder · ICON Agents · eXp Realty · Greenville, NC
+Al & Victoria Pinder · The Prosperity Agent · ICON Agents, eXp Realty

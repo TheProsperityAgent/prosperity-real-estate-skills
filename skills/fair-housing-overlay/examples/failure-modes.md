@@ -30,11 +30,11 @@ Always load the overlay FIRST. Make it muscle memory. Most task skills in this r
 
 **Why:** The pattern `\bschool\s+district\b` doesn't know about proper-noun exceptions.
 
-**Fix:** Pre-mask known proper nouns before pattern match. Maintain `~/content-agent/state/proper_nouns.txt`:
+**Fix:** Pre-mask known proper nouns before pattern match. Maintain `your project folder proper-nouns file`:
 ```
 Oakwood School District
 Springfield Park
-ECU Health
+the university Health
 ```
 Mask those phrases as placeholders, run overlay, unmask. Most cases handled with this single list.
 
@@ -83,13 +83,13 @@ The overlay distinguishes "consent unknown" (refuses) from "consent on file" (pr
 
 ## 8. Always-positive rule blocks legitimate market commentary
 
-**Symptom:** You want to write "Greenville's median sold price is up 4.2% YoY, while neighboring Pitt County's is flat" — neutral market data. Overlay refuses because it reads "while [town] is flat" as knocking that town.
+**Symptom:** You want to write "Springfield's median sold price is up 4.2% YoY, while neighboring Pitt County's is flat" — neutral market data. Overlay refuses because it reads "while [town] is flat" as knocking that town.
 
 **Why:** Pattern was over-broad on "X is flat / X is down".
 
 **Fix:** Frame neutrally without comparative language:
 ```
-Greenville's median sold price: $339K (+4.2% YoY).
+Springfield's median sold price: $339K (+4.2% YoY).
 Pitt County's median sold price: $295K (flat YoY).
 ```
 Two facts, no comparison phrase. Both numbers cited.
@@ -98,13 +98,13 @@ The always-positive rule blocks the FRAMING ("better than", "unlike"), not the d
 
 ## 9. Quarterly update happened, blocklist diverged from supervisor
 
-**Symptom:** Patterns in the overlay's Rule Set 1 don't match patterns in `compliance_supervisor.py`. Overlay catches X; supervisor doesn't (or vice versa).
+**Symptom:** Patterns in the overlay's Rule Set 1 don't match patterns in `a compliance supervisor`. Overlay catches X; supervisor doesn't (or vice versa).
 
 **Why:** Updates applied to one location and not the other.
 
 **Fix:** The blocklists should be a single source of truth — store as a JSON file that both the overlay and the supervisor read:
 ```
-~/content-agent/compliance/blocklist_v3.json
+your project folder blocklist file
 ```
 Update once, both layers pick it up.
 

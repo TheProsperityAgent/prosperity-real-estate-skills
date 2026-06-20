@@ -10,12 +10,12 @@
 
 ## 2. Closing line defaults to schools
 
-**Symptom:** Body is clean, but the closing line says "Located in a desirable Greenville school district."
+**Symptom:** Body is clean, but the closing line says "Located in a desirable Springfield school district."
 
 **Why:** No anchor passed in the prompt. Claude defaulted to schools because schools are the most common geographic anchor in real estate copy.
 
 **Fix:** Always pass `Major nearby employer / park / amenity for the close: [SPECIFIC ANCHOR]`. Examples:
-- `ECU Health Medical Center` (12 min)
+- `the regional medical center` (12 min)
 - `Wildwood Park` (quarter-mile walk)
 - `Five Points downtown` (six blocks)
 - `Crystal Coast` (90 min)
@@ -38,7 +38,7 @@ The overlay is the FH/MLS-quality floor. The listing-description skill is the wr
 
 ## 4. Luxury variant produces hype-y output
 
-**Symptom:** You set the luxury variant and the output reads "STUNNING LUXURY ESTATE in an EXCLUSIVE Greenville enclave!"
+**Symptom:** You set the luxury variant and the output reads "STUNNING LUXURY ESTATE in an EXCLUSIVE Springfield enclave!"
 
 **Why:** Luxury tone drifted to hype.
 

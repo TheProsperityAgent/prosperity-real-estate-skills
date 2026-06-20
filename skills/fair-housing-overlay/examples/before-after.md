@@ -8,7 +8,7 @@
 
 **After (overlay loaded):**
 
-> Three-bedroom home with an open floor plan, primary suite on the main level, and a 0.4-acre lot. 12 minutes to ECU Health Medical Center, 8 minutes to downtown Greenville, and a public park three blocks over.
+> Three-bedroom home with an open floor plan, primary suite on the main level, and a 0.4-acre lot. 12 minutes to the regional medical center, 8 minutes to downtown Springfield, and a public park three blocks over.
 
 What changed:
 - "Family-friendly neighborhood" → dropped. Replaced with objective lot + features.
@@ -33,11 +33,11 @@ Redirect: route to a re-consent path (one-time opt-in form, re-subscribe link, p
 
 **Before (no overlay):**
 
-> A must-see hidden gem in Greenville! This rare opportunity won't last long. Act now — priced to sell!
+> A must-see hidden gem in Springfield! This rare opportunity won't last long. Act now — priced to sell!
 
 **After (overlay loaded):**
 
-> Brand-new listing in Greenville. Four-bedroom, three-bath plan with a screened porch off the back and primary on the main. Built in 2018 — recent systems. 0.6-acre fenced lot.
+> Brand-new listing in Springfield. Four-bedroom, three-bath plan with a screened porch off the back and primary on the main. Built in 2018 — recent systems. 0.6-acre fenced lot.
 
 What changed: 7 banned clichés removed. MLS feeds (Realtor.com, Zillow, Redfin) downrank pages with these phrases. Removal both protects compliance AND helps SEO.
 
@@ -45,14 +45,14 @@ What changed: 7 banned clichés removed. MLS feeds (Realtor.com, Zillow, Redfin)
 
 **Before (no overlay):**
 
-> Unlike the overpriced new construction across town, this home offers real value in a still-affordable Greenville neighborhood. Skip the bidding wars at Tyre Builders and come see what real value looks like.
+> Unlike the overpriced new construction across town, this home offers real value in a still-affordable Springfield neighborhood. Skip the bidding wars at a competing builder and come see what real value looks like.
 
 **After (overlay loaded):**
 
 > SKILL REFUSED. This pattern knocks competing builders by name. NAR Code of Ethics Article 12 prohibits making misrepresentations about other agents or their listings. Always-positive rule blocks competitor takedowns.
 
 Rewrite (skill returns):
-> Strong value at $385K for a 4-bedroom on a 0.6-acre fenced lot in Greenville. Recent build, current finishes, and an open floor plan.
+> Strong value at $385K for a 4-bedroom on a 0.6-acre fenced lot in Springfield. Recent build, current finishes, and an open floor plan.
 
 ## A real bilateral example — the LinkedIn post that almost shipped
 

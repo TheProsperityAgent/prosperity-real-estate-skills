@@ -15,7 +15,7 @@ Make it muscle memory. The overlay is the floor.
 
 ## 2. Pasting MLS data with ALL-CAPS headers
 
-**Symptom:** Output partially echoes ALL-CAPS — "Brand-new listing in GREENVILLE. FOUR-BEDROOM..."
+**Symptom:** Output partially echoes ALL-CAPS — "Brand-new listing in SPRINGFIELD. FOUR-BEDROOM..."
 
 **Why:** Claude sometimes mirrors the case it sees in inputs. Some MLS exports ship headers in ALL CAPS.
 
@@ -71,13 +71,13 @@ caption = re.sub(r"[^\x00-\x7F]+", "", caption)  # strips non-ASCII
 
 ## 7. The listing description is great but the close line drifts back to schools
 
-**Symptom:** Description body is clean, but the closing line says "Located in a desirable Greenville school district."
+**Symptom:** Description body is clean, but the closing line says "Located in a desirable Springfield school district."
 
 **Why:** Claude was trying to anchor the close geographically and defaulted to schools (which is the most common geographic anchor in real estate copy).
 
 **Fix:** The Prompt 1 template specifies: `End with ONE line about [CITY] life that doesn't mention schools. Use commute time to a major employer, or a public park, or a downtown amenity, or a commute-to-coast time — all objective, all FH-clean.`
 
-Pass an explicit anchor: `Major nearby employer / park / amenity for the close: ECU Health Medical Center`. Claude will use that instead of inventing one.
+Pass an explicit anchor: `Major nearby employer / park / amenity for the close: the regional medical center`. Claude will use that instead of inventing one.
 
 ## 8. The buyer's name leaks into Prompt 2
 

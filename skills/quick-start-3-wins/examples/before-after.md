@@ -4,10 +4,10 @@
 
 **Before** (the way most agents write a fresh listing description at 9 PM):
 
-> Stunning move-in ready home in a great Greenville school district! This must-see 4 bedroom won't last long — perfect for a young family looking for a safe, quiet neighborhood. Beautiful updates throughout. Hidden gem on a quiet cul-de-sac! Schedule your private showing today!
+> Stunning move-in ready home in a great Springfield school district! This must-see 4 bedroom won't last long — perfect for a young family looking for a safe, quiet neighborhood. Beautiful updates throughout. Hidden gem on a quiet cul-de-sac! Schedule your private showing today!
 
 What just happened:
-- "Great Greenville school district" — FHA school reference.
+- "Great Springfield school district" — FHA school reference.
 - "Must-see" + "won't last" — MLS data-quality clichés; Realtor.com and Zillow downrank.
 - "Perfect for a young family" — demographic targeting, FHA violation.
 - "Safe, quiet neighborhood" — "safe" has no compliant replacement. "Quiet" only if backed by objective data ("low-traffic street").
@@ -16,7 +16,7 @@ What just happened:
 
 **After** (Prompt 1 with fair-housing-overlay loaded):
 
-> Four-bedroom plan with the primary suite on the main level and a screened porch off the back. Three more bedrooms upstairs plus a flex room, two-and-a-half baths, 2,150 square feet on a fenced 0.6-acre lot. Built in 2018, so the systems are recent and the finishes are still current. Indoor flow is open from the kitchen through the family room to the screened porch — single-story living is right there if you want it, with the upstairs giving you room for everyone else. The lot is generous for this part of Greenville, and you're twelve minutes from ECU Health Medical Center.
+> Four-bedroom plan with the primary suite on the main level and a screened porch off the back. Three more bedrooms upstairs plus a flex room, two-and-a-half baths, 2,150 square feet on a fenced 0.6-acre lot. Built in 2018, so the systems are recent and the finishes are still current. Indoor flow is open from the kitchen through the family room to the screened porch — single-story living is right there if you want it, with the upstairs giving you room for everyone else. The lot is generous for this part of Springfield, and you're twelve minutes from the regional medical center.
 
 145 words exactly. No clichés. No school refs. Localized close uses commute time to a major employer (objective, FH-clean). MLS-feed-friendly.
 
@@ -42,7 +42,7 @@ What just happened:
 
 **Before** (one IG caption, no FB/TikTok versions):
 
-> JUST LISTED in Greenville! 🏡 This stunning 4BR home with great schools nearby is a MUST-SEE! Won't last at this price! Family-friendly neighborhood with tons of charm. DM me for a private showing! #DreamHome #Greenville
+> JUST LISTED in Springfield! 🏡 This stunning 4BR home with great schools nearby is a MUST-SEE! Won't last at this price! Family-friendly neighborhood with tons of charm. DM me for a private showing! #DreamHome #Springfield
 
 What just happened:
 - "Must-see" + "won't last" — MLS cliché ban.
@@ -54,17 +54,17 @@ What just happened:
 **After** (Prompt 3 returns all 3):
 
 IG (≤2200 chars + 5 hashtags + no link):
-> Brand-new listing in Greenville. Four-bedroom, three-bath with the primary on the main and a screened porch off the back. Built in 2018 — systems are recent. Lot is 0.6 acres, fenced. Twelve minutes to ECU Health Medical Center.
+> Brand-new listing in Springfield. Four-bedroom, three-bath with the primary on the main and a screened porch off the back. Built in 2018 — systems are recent. Lot is 0.6 acres, fenced. Twelve minutes to the regional medical center.
 >
 > Comment HONEYSUCKLE and I'll send you the full photo set.
 >
-> #Greenville #NorthCarolina #FourBedroom #ScreenedPorch #PinderTeam
+> #Springfield #FourBedroom #ScreenedPorch
 
 FB (≤700 chars + question close):
-> New Greenville listing day. 1234 Honeysuckle Lane — 4 bed, 3 bath, 2,150 sqft, 0.6 acres, primary on the main, screened porch off the back. 12 minutes to ECU Health. What's the one feature you'd want most in a Greenville 4-bedroom — primary on the main, screened porch, or the fenced yard?
+> New Springfield listing day. 1234 Honeysuckle Lane — 4 bed, 3 bath, 2,150 sqft, 0.6 acres, primary on the main, screened porch off the back. 12 minutes to the university Health. What's the one feature you'd want most in a Springfield 4-bedroom — primary on the main, screened porch, or the fenced yard?
 
 TikTok (≤300 chars + 5 hashtags + script outline):
-> Just listed in Greenville. 4 bed 3 bath, primary on main, screened porch off the back. Drop your favorite Greenville neighborhood below. #Greenville #NorthCarolina #JustListed #ScreenedPorch #PinderTeam
+> Just listed in Springfield. 4 bed 3 bath, primary on main, screened porch off the back. Drop your favorite Springfield neighborhood below. #Springfield #JustListed #ScreenedPorch
 
 Each platform respects its algorithm + format. No clichés. No FH violations. Same listing, three audiences.
 
