@@ -1,0 +1,20 @@
+{
+  "name": "real-estate-skills",
+  "description": "Free, Fair-Housing-compliant Claude skills and workflows for real estate agents: write listing descriptions, connect your MLS to Claude, keep every AI output compliant, and get three quick wins in your first 15 minutes. Built by Al & Victoria Pinder, The Prosperity Agent.",
+  "version": "1.1.0",
+  "author": {
+    "name": "Al & Victoria Pinder, The Prosperity Agent",
+    "url": "https://theprosperityagent.com"
+  },
+  "homepage": "https://theprosperityagent.com",
+  "license": "MIT",
+  "keywords": [
+    "real estate",
+    "claude skills",
+    "claude code workflows",
+    "mls integration",
+    "fair housing",
+    "listing description",
+    "realtor"
+  ]
+}

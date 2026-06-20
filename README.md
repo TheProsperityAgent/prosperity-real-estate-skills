@@ -1,8 +1,8 @@
-# Real Estate Claude Skills
+# Real Estate Claude Skills & Workflows
 
-**Free Claude skills for real estate agents.** Built by [Al & Victoria Pinder](https://theprosperityagent.com), The Prosperity Agent — ICON agents at eXp Realty.
+**Free Claude skills and workflows for real estate agents.** Built by [Al & Victoria Pinder](https://theprosperityagent.com), The Prosperity Agent, ICON agents at eXp Realty.
 
-Every skill is **Fair Housing compliant by default**. We never knock a town, builder, neighborhood, platform, or competing agent.
+Every skill is **Fair Housing compliant by default**. We do not knock a town, builder, neighborhood, platform, or competing agent.
 
 These are the free, run-it-yourself versions of the work agents do every week.
 
@@ -11,6 +11,7 @@ These are the free, run-it-yourself versions of the work agents do every week.
 | Skill | What it does |
 |-------|--------------|
 | [`listing-description`](skills/listing-description/) | Turn the facts of a listing into compelling, Fair-Housing-compliant MLS remarks plus a short social caption. |
+| [`connect-mls-to-claude`](skills/connect-mls-to-claude/) | Bring your own MLS data into Claude the manual way (export and analyze) for market reports, comps, and listing analysis. |
 | [`fair-housing-overlay`](skills/fair-housing-overlay/) | The compliance foundation. Load it alongside any skill so your AI output stays Fair-Housing safe. |
 | [`quick-start-3-wins`](skills/quick-start-3-wins/) | Three workflows you can run in your first 15 minutes with Claude. |
 
@@ -39,7 +40,7 @@ That is the difference between using AI and handing it the wheel. If you want th
 
 ## Compliance baked in
 
-Every skill here is built to be Fair Housing compliant, TCPA-aware, and MLS-rule respecting by default: no school references, no demographic targeting, no scarcity language that hurts MLS data quality, and always positive. We never knock a town, builder, platform, or competing agent.
+Every skill here is built to be Fair Housing compliant, TCPA-aware, and MLS-rule respecting by default: no school references, no demographic targeting, no scarcity language that hurts MLS data quality, and always positive. We do not knock a town, builder, platform, or competing agent.
 
 The `fair-housing-overlay` skill is the foundation. Load it alongside any other skill, and when the rules change you update one place.
 

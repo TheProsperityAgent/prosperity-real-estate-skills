@@ -5,17 +5,18 @@
     "email": "victoria.pinder@exprealty.com"
   },
   "metadata": {
-    "description": "Free Claude skills for real estate agents, Fair Housing compliant by default. Built by Al & Victoria Pinder.",
-    "version": "1.0.0"
+    "description": "Free Claude skills and workflows for real estate agents, Fair Housing compliant by default. Built by Al & Victoria Pinder.",
+    "version": "1.1.0"
   },
   "plugins": [
     {
       "name": "real-estate-skills",
-      "description": "Free, Fair-Housing-compliant Claude skills for real estate agents: write listing descriptions, keep every AI output compliant, and get three quick wins in your first 15 minutes. By Al & Victoria Pinder, The Prosperity Agent.",
+      "description": "Free, Fair-Housing-compliant Claude skills and workflows for real estate agents: write listing descriptions, connect your MLS to Claude, keep every AI output compliant, and get three quick wins in your first 15 minutes. By Al & Victoria Pinder, The Prosperity Agent.",
       "source": "./",
       "strict": false,
       "skills": [
         "./skills/listing-description",
+        "./skills/connect-mls-to-claude",
         "./skills/fair-housing-overlay",
         "./skills/quick-start-3-wins"
       ]
