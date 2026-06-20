@@ -17,11 +17,12 @@ These are the free, run-it-yourself versions of the work agents do every week.
 ## Install
 
 1. Install Claude Code: https://claude.ai/download
-2. Add this repo as a plugin marketplace in Claude Code:
-   `/plugin marketplace add TheProsperityAgent/prosperity-real-estate-skills`
-   (or clone it: `git clone https://github.com/TheProsperityAgent/prosperity-real-estate-skills.git`)
-3. Always load `fair-housing-overlay` alongside the others. It is the compliance floor.
-4. Start with `quick-start-3-wins`.
+2. Add the marketplace: `/plugin marketplace add TheProsperityAgent/prosperity-real-estate-skills`
+3. Install the skills: `/plugin install real-estate-skills@prosperity-real-estate-skills`
+4. Always load `fair-housing-overlay` alongside the others. It is the compliance floor.
+5. Start with `quick-start-3-wins`.
+
+Prefer to clone instead? `git clone https://github.com/TheProsperityAgent/prosperity-real-estate-skills.git`
 
 ## Want the version that runs without you?
 
