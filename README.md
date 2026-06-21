@@ -1,19 +1,23 @@
-# Real Estate Claude Skills & Workflows
+# Claude Skills for Real Estate Agents
 
-**Free Claude skills and workflows for real estate agents.** Built by [Al & Victoria Pinder](https://theprosperityagent.com), The Prosperity Agent, ICON agents at eXp Realty.
+**Free Claude skills for real estate agents**, built by [Al & Victoria Pinder](https://theprosperityagent.com/claude-for-real-estate-agents/), The Prosperity Agent, ICON agents at eXp Realty.
 
-Every skill is **Fair Housing compliant by default**. We do not knock a town, builder, neighborhood, platform, or competing agent.
+Every skill is **Fair Housing compliant by default**. We do not knock a town, builder, neighborhood, platform, or competing agent. These are the free, run-it-yourself versions of the work agents do every week.
 
-These are the free, run-it-yourself versions of the work agents do every week.
+New to Claude? Start with the [beginner guide for real estate agents](https://theprosperityagent.com/claude-for-real-estate-agents/). Want the full picture? See [Our Stack](https://theprosperityagent.com/claude-code-for-real-estate-agents/) and [every AI tool we run and what it costs](https://theprosperityagent.com/ai-tools/).
 
 ## The free skills
 
-| Skill | What it does |
-|-------|--------------|
-| [`listing-description`](skills/listing-description/) | Turn the facts of a listing into compelling, Fair-Housing-compliant MLS remarks plus a short social caption. |
-| [`connect-mls-to-claude`](skills/connect-mls-to-claude/) | Bring your own MLS data into Claude the manual way (export and analyze) for market reports, comps, and listing analysis. |
-| [`fair-housing-overlay`](skills/fair-housing-overlay/) | The compliance foundation. Load it alongside any skill so your AI output stays Fair-Housing safe. |
-| [`quick-start-3-wins`](skills/quick-start-3-wins/) | Three workflows you can run in your first 15 minutes with Claude. |
+1. **[`listing-description`](skills/listing-description/)** — Turn the facts of a listing into compelling, Fair-Housing-compliant MLS remarks plus a short social caption. [How it works.](https://theprosperityagent.com/ai-tools/listing-copy/)
+2. **[`connect-mls-to-claude`](skills/connect-mls-to-claude/)** — **MLS integration with Claude Code.** Bring your own MLS and county data into Claude so it works from real numbers, not guesses: market reports, comps, and listing analysis. [How it works.](https://theprosperityagent.com/ai-tools/mls-county-data/)
+3. **[`fair-housing-overlay`](skills/fair-housing-overlay/)** — The compliance foundation. Load it alongside any skill so your AI output stays Fair-Housing safe. [How it works.](https://theprosperityagent.com/ai-tools/brand-voice/)
+4. **[`quick-start-3-wins`](skills/quick-start-3-wins/)** — Three workflows you can run in your first 15 minutes with Claude. [How it works.](https://theprosperityagent.com/ai-tools/claude-code/)
+
+Want the bigger picture? See [15 Claude Skills for Real Estate Agents](https://theprosperityagent.com/2026/06/claude-skills-for-real-estate-agents/) for the full list of jobs Claude can run.
+
+## MLS integration with Claude Code
+
+The [`connect-mls-to-claude`](skills/connect-mls-to-claude/) skill is how you give Claude your real numbers. Export your MLS and county data, load it, and Claude can build market reports, run comps, and analyze a listing from the actual data instead of guessing. It is the connector most agents are missing. [Full walkthrough.](https://theprosperityagent.com/ai-tools/mls-county-data/)
 
 ## Install
 
@@ -36,7 +40,7 @@ The agents who partner with Al & Victoria get the advanced set: the work that ru
 - a compliance check on every piece before it goes out,
 - your CRM and your social tools wired together so they talk to each other.
 
-That is the difference between using AI and handing it the wheel. If you want that built for your business, reach out at [theprosperityagent.com](https://theprosperityagent.com).
+That is the difference between using AI and handing it the wheel. See [Our Stack](https://theprosperityagent.com/claude-code-for-real-estate-agents/), or if you want that built for your business, reach out at [theprosperityagent.com](https://theprosperityagent.com).
 
 ## Compliance baked in
 
